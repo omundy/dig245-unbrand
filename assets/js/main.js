@@ -28,3 +28,5 @@ document.getElementById("hover-effect").addEventListener("mouseout", ()=>{
     document.getElementById("img3").classList.remove("hide");
     
 })
+
+console.log("Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content from creators around the world! Sounds good, right! But However all of these cool features are actually fully enjoyed by people who pay a starting price of $11.99 per month, which we think is relatively expensive! Furthermore, Spotify really works hard to make your experience as awful as possible if you are not a premium user(paying user). Unskipable ads every 5 songs, no song rewinding, limited skips per playlist, you name it and spotify has actually done it! It is pretty unusable to non-paying customers which is totally the opposite of their tag line: 'Music for everyone'. We came to a conclusion, that actually Spotify's tag line should be 'Music NOT for everyone'.");
